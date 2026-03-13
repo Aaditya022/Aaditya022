@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m looking to collaborate on<br>Open-source Java projects, backend development projects, and problem-solving communities focused on DSA and system design.<br>🤝 I’m looking for help with<br>Advanced Data Structures & Algorithms, system design concepts, and building scalable backend architectures with Spring Boot.<br>🌱 I’m currently learning<br>Full Stack Java Development, Spring Boot, REST APIs, databases (MySQL), and Data Structures & Algorithms for improving problem-solving skills.<br>💬 Ask me about<br>Java programming, backend development, DSA practice, SEO/content writing strategies, and digital marketing basics.<br>⚡ Fun fact<br>I enjoy solving coding problems, learning how systems work internally, and I’m on a mission to become a strong Java developer while building real-world projects.
+I’m looking to collaborate on<br>Open-source Java projects, backend development projects, and problem-solving communities focused on DSA and system design.<br> 
+
+I’m looking for help with<br>Advanced Data Structures & Algorithms, system design concepts, and building scalable backend architectures with Spring Boot.<br>
+
+I’m currently learning Full Stack Java Development, Spring Boot, REST APIs, databases (MySQL), and Data Structures & Algorithms for improving problem-solving skills.<br>
+
+Ask me about<br>Java programming, backend development. I enjoy solving coding problems, learning how systems work internally, and I’m on a mission to become a strong Java developer while building real-world projects.
 
 
 # 💻 Tech Stack:
