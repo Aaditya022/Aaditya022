@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Agarwal</h1>
+[<h1 align="center">Hi 👋, I'm Aditya Agarwal</h1>
 <h3 align="center">Full Stack Java Developer | Spring Boot | React & Redux | Building scalable backend systems</h3>
 
 <p align="center">
@@ -165,3 +165,4 @@ graph LR
 [![](https://visitcount.itsvg.in/api?id=Encore-sos&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://github.com/Aaditya022/Aaditya022)
