@@ -1,4 +1,4 @@
-# Aditya Agarwal
+# Aditya Agarwal // Tell Your Boss Schrodinger I Survived
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaditya022&label=Profile%20Views&color=00FF00&style=flat-square)
 
