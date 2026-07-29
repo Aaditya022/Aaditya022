@@ -1,4 +1,4 @@
-# Aditya
+# Aditya Agarwal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaditya022&label=Profile%20Views&color=00FF00&style=flat-square)
 
