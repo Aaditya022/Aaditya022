@@ -1,149 +1,140 @@
-<h1 align="center">Hi 👋, I'm Aditya Agarwal</h1>
-<h3 align="center">Full Stack Java Developer | Spring Boot | React & Redux | Building scalable backend systems</h3>
+# Aditya
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+System+Design;DSA+Enthusiast+%7C+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Aaditya022&label=Profile%20Views&color=00FF00&style=flat-square)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaditya-agrawal-1020803b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/aadi_74"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/txr_aadi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@heyaditya022"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI%2FML+Focused+MCA+Student;Building+Production-Ready+Systems)](https://git.io/typing-svg)
 
----
+![Contribution Snake](https://raw.githubusercontent.com/Aaditya022/Aaditya022/output/github-contribution-grid-snake-dark.svg)
 
-### 💫 About Me
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-```java
-public class Aditya {
-    String name = "Aditya Agarwal";
-    String role = "Full Stack Java Developer";
-    String location = "Delhi, India";
-    String[] currentlyLearning = {"Advanced DSA", "System Design", "Spring Boot Internals"};
+```python
+class Aditya:
+    def __init__(self):
+        self.role = ["Full-Stack Developer", "AI/ML Enthusiast"]
+        self.education = "BCA — Graphic Era University | MCA (AI/ML) — IIIT Ranchi"
+        self.location = "Delhi, India"
 
-    String[] collabInterests() {
-        return new String[] {
-            "Open-source Java projects",
-            "Backend development",
-            "DSA & system design communities"
-        };
-    }
+    def tech(self):
+        return {
+            "languages": ["Java", "JavaScript", "TypeScript"],
+            "backend": ["Spring Boot", "Node.js", "Express.js"],
+            "frontend": ["React", "Next.js"],
+            "mobile": ["Android"],
+            "infra": ["Docker", "PostgreSQL", "Redis", "Kafka"],
+        }
 
-    String[] askMeAbout() {
-        return new String[] {"Java", "Backend Development", "Problem Solving", "Spring Boot"};
-    }
-}
+me = Aditya()
 ```
 
-- 🔭 Currently building backend systems with **Spring Boot** & **REST APIs**
-- 🌱 Currently learning **Full Stack Java Development**, **MySQL**, and **Data Structures & Algorithms**
-- 🤝 Looking to collaborate on **open-source Java / backend projects**
-- 🆘 Looking for help with **advanced DSA**, **system design**, and **scalable backend architecture**
-- 💬 Ask me about **Java, backend development & problem solving**
-- 📍 Based in **Delhi, India**
+Full-stack developer and AI/ML-focused MCA student, building production-grade
+systems end to end — from Spring Boot backends and React/Next.js frontends to
+Android apps and AI-powered platforms.
 
----
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 🎯 Focus Areas
+## Focus Areas
 
 ```mermaid
 graph LR
-    A["Backend Development"] --> B["Spring Boot & REST APIs"]
-    A --> C["System Design"]
-    A --> D["Database Design"]
+    A["Full-Stack Engineering"] --> B["Spring Boot APIs"]
+    A --> C["React / Next.js Frontends"]
+    A --> D["Android Apps"]
 
-    E["Problem Solving"] --> F["Data Structures & Algorithms"]
-    E --> G["Competitive Coding"]
+    E["AI / ML"] --> F["LLM Memory Systems"]
+    E --> G["Applied Research"]
 
-    B --> H["Scalable, Production-Ready Systems"]
-    C --> H
-    D --> H
-    F --> H
-    G --> H
+    B --> I["Production-Ready Systems"]
+    C --> I
+    D --> I
+    F --> I
+    G --> I
 
     style A fill:#0D1117,stroke:#58A6FF,color:#58A6FF
     style E fill:#0D1117,stroke:#FF6B35,color:#FF6B35
-    style H fill:#0D1117,stroke:#00FF00,color:#00FF00
+    style I fill:#0D1117,stroke:#00FF00,color:#00FF00
 ```
 
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## Project Timeline
+
+```mermaid
+timeline
+    title Project Journey
+
+    2026 May : Graphite Open-Source Contribution (Vector Editor)
+             : Wells Fargo Spring Boot Task
+             : UPI Without Internet (Spring Boot + Razorpay)
+
+    2026 Jun : Portfolio & Resume Projects
+             : Freelance & Client Web Work
+
+    2026 Jul (Early) : PulseBeat — Music Streaming Platform
+                      : SupportPal AI — Multi-Tenant Support SaaS
+
+    2026 Jul (Mid) : AI Observer — AI Observability Platform
+                    : Persistent Memory Engine
+                    : AHMA Research Paper
+
+    2026 Jul (Late) : Genesis — Hack the Arts 2026
+```
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## What I'm Building
+
+- **AI Observer** — AI-powered observability platform (Spring Boot + Next.js + Ollama), integrating with SigNoz for autonomous anomaly detection and root-cause analysis.
+- **PulseBeat** — Large-scale Spotify-like music streaming platform: Spring Boot multi-module backend with JWT/OAuth2, Kafka event flow, HTTP range streaming, paired with a React + TypeScript + Tailwind frontend.
+- **SupportPal AI** — Multi-tenant AI customer support SaaS with role-based access (Customer/Agent/Admin), built on Spring Boot 3.3, Next.js 15, and graph/vector memory (Cognee).
+- **Persistent Memory Engine** — Production-grade Spring Boot service giving AI meeting assistants cross-meeting memory, using PostgreSQL + pgvector and hybrid BM25/vector search.
+- **AHMA Paper** — Research on Adaptive Hybrid Memory Architecture for long-term conversational LLMs.
+- **Genesis** — Persistent shared procedural planet/artwork built for Hack the Arts 2026.
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## Open to Collaboration
+
+| 🖥️ **Software Development** | 🧠 **AI Development** | 📊 **Data Science** | 🌐 **Open Source** |
+|---|---|---|---|
+| Full-Stack Applications | Computer Vision & NLP | Predictive Modeling | Community Projects |
+| API & Microservices | LLM / RAG Applications | Analytics & Visualization | Code Review & Mentoring |
+| System Architecture | ML Pipeline Engineering | Competitive DS | Developer Tooling |
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aaditya022&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_bust=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya022&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aaditya022&theme=default&hide_border=true)
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 ---
 
-### 📊 GitHub Stats
+*"Building the bridge between software craftsmanship and artificial intelligence — one system at a time."*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya022&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aaditya022's GitHub stats" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-agrawal-1020803b1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyaditya022@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/txr_aadi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aaditya022)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya022&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=REPLACE_WITH_SPOTIFY_USER_ID&count=3&width=900)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya022&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+> Spotify widget needs (re-)authorization to show your recently played tracks — sign in once at https://spotify-recently-played-readme.vercel.app to link your account, then swap `REPLACE_WITH_SPOTIFY_USER_ID` above with your generated user ID.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aaditya022&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📌 Pinned / Notable Repositories
-
-- **[Aaditya022](https://github.com/Aaditya022/Aaditya022)** — Personal profile README repo
-- **[memory-engine](https://github.com/Aaditya022/memory-engine)** — The Organizational Brain for Enterprise AI, powered by Cognee, Gemini & Knowledge Graphs
-- **[wells-fargo-task-2](https://github.com/Aaditya022/wells-fargo-task-2)** — Wells Fargo Software Development Forage program (Task 2)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aaditya022&icon=0&color=0" alt="Visitor Count" />
-</p>
-
-<p align="center"><i>"Learning to build systems that scale, one line of code at a time."</i></p>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75)
