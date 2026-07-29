@@ -1,10 +1,9 @@
 # Aditya Agarwal // Tell Your Boss Schrodinger I Survived
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaditya022&label=Profile%20Views&color=00FF00&style=flat-square)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI%2FML+Focused+MCA+Student;Building+Production-Ready+Systems)](https://git.io/typing-svg)
 
-![Contribution Snake](https://github.com/Aaditya022/Aaditya022/raw/main/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Aaditya022/Aaditya022/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
@@ -17,11 +16,12 @@ class Aditya:
 
     def tech(self):
         return {
-            "languages": ["Java", "JavaScript", "TypeScript"],
-            "backend": ["Spring Boot", "Node.js", "Express.js"],
-            "frontend": ["React", "Next.js"],
-            "mobile": ["Android"],
-            "infra": ["Docker", "PostgreSQL", "Redis", "Kafka"],
+            "languages": ["Java", "Python", "JavaScript", "Rust"],
+            "backend": ["Spring Boot", "Hibernate", "JavaFX", "Node.js"],
+            "frontend": ["React", "Next.js", "Vue.js", "Tailwind CSS", "Framer Motion", "GSAP"],
+            "ai_ml": ["LangChain", "LangGraph", "NumPy"],
+            "infra": ["Docker", "Kubernetes", "Redis", "Kafka", "PostgreSQL", "CI/CD"],
+            "design": ["Photoshop", "After Effects", "Premiere Pro"],
         }
 
 me = Aditya()
@@ -35,14 +35,21 @@ Android apps and AI-powered platforms.
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=java,py,js,ts,go,rust,spring,hibernate,react,nextjs,vue,tailwind,vite,django,express,vercel,docker,kubernetes,redis,kafka,postgres,mongodb,nodejs,androidstudio,numpy,linux,figma,vscode,illustrator,ps,ae,pr&perline=8)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-EA2D2E?style=for-the-badge&logo=openjfx&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+**Design & Media**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
