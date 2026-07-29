@@ -1,6 +1,5 @@
 # Aditya Agarwal // Tell Your Boss Schrodinger I Survived
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaditya022&label=Profile%20Views&color=00FF00&style=flat-square)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Full-Stack+Developer;AI%2FML+Focused+MCA+Student;Building+Production-Ready+Systems)](https://git.io/typing-svg)
 
 ![Contribution Snake](https://raw.githubusercontent.com/Aaditya022/Aaditya022/output/github-contribution-grid-snake-dark.svg)
@@ -123,6 +122,10 @@ timeline
 | System Architecture | ML Pipeline Engineering | Competitive DS | Developer Tooling |
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## GitHub Stats
 
