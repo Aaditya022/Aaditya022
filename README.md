@@ -27,9 +27,9 @@ class Aditya:
 me = Aditya()
 ```
 
-Full-stack developer and AI/ML-focused MCA student, building production-grade
-systems end to end — from Spring Boot backends and React/Next.js frontends to
-Android apps and AI-powered platforms.
+AI Engineer and Software Engineer building end-to-end systems — from scalable
+architectures to production ML pipelines. I work across the full stack: designing
+clean APIs, deploying deep learning models, and shipping intelligent solutions.
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
